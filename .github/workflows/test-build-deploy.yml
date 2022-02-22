@@ -42,7 +42,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v3
         with:
-          images: kaw393939/flaskbase
+          images: nicktuga13/docker_flask
 
       - name: Build and push
         uses: docker/build-push-action@v2
