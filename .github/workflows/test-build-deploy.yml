@@ -61,3 +61,11 @@ jobs:
           heroku_app_name: "nc363-docker-flask" #Must be unique in Heroku
           heroku_email: "nicktuga13@gmail.com"
           usedocker: true
+
+
+
+
+
+          # 2 HEROKU APPS
+          # 1 - UCID-PROD
+          # 2 - UCID-DEV
